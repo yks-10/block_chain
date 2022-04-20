@@ -1,5 +1,7 @@
 BLOCKCHAIN:
+
   Blockchain is a continously growing list of records, called block. Which are linked and secured using cryptography.
+  
 BLOCK consit of:
     1. Data : "HEllo world"
     2. Prev.Hash : 034DFA327
@@ -24,7 +26,13 @@ BLOCK consit of:
 
 
 TOPICS OF BLOCK CHAIN:
-  *Mining
+  * Hash Cryptography
+  * Mining
+  * Distributed P2P Network
+  * Immutable Ledger 
+  * Consensus Protocol
+
+  
   
           
           
